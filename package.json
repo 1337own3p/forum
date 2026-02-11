@@ -1,0 +1,1 @@
+{\n  "name": "retro-forum",\n  "version": "1.0.0",\n  "description": "A retro forum application using Express and SQLite",\n  "main": "index.js",\n  "scripts": {\n    "start": "node index.js"\n  },\n  "dependencies": {\n    "express": "^4.17.1",\n    "sqlite3": "^5.0.0",\n    "body-parser": "^1.19.0"\n  }\n}
